@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/_Scenes/worms.unity
-  isLoaded: 1
-  isActive: 1
