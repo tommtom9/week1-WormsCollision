@@ -29,7 +29,7 @@ public class GroundController : MonoBehaviour {
 
         transp = new Color(0f, 0f, 0f, 0f);
         InitSpriteDimensions();
-        BulletController.groundController = this;
+        BulletBehavior.groundController = this;
     }
 
 
